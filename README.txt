@@ -8,7 +8,7 @@
 3. Stopwords(Chinese) - You  can find those data on other website
 4. Trained model
 5. Training Data(If you don't have trained model, training data is not provided)
-6. Testing Data
+6. Testing Data(If you don't have trained model, testing data is not provided)
 
 ## Run the project
 python main.py
